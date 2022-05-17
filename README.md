@@ -7,11 +7,11 @@ class Risk4PF(ReadMe):
         self.username = "Risk"
         self.contacts = {
             "Discord": "RISK#6345",
-            "Instagram": "4pfrisk"
+            "Instagram": "Risk4PF"
         }
         self.alises = [
             "RISK",
-            "4PFRISK"
+            "Risk4PF"
         ]
         self.location = "Englang, London"
         self.age = "19, Born 9 April 2003"
